@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13781a2d-2718-4e70-9221-1bf313887918" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/bank_marketing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/digit_recognizer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/titanic.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/wine_quality.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/bank_marketing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/titanic.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/wine_quality.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/visualization.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="100" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0329542157204077" />
+      <entry key="MS500" value="1.873115812209567" />
+      <entry key="S2" value="5.683103448151267" />
+      <entry key="S5" value="13.458366249161829" />
+      <entry key="S10" value="25.409746333132233" />
+      <entry key="S30" value="57.60448489195774" />
+      <entry key="S60" value="79.31974478937627" />
+      <entry key="M2" value="103.87969767880249" />
+      <entry key="M5" value="169.15218105088582" />
+      <entry key="M10" value="253.66721444302482" />
+      <entry key="M15" value="320.53610454621224" />
+      <entry key="M30" value="455.35066952178755" />
+      <entry key="H1" value="588.9395991586869" />
+      <entry key="H2" value="722.7531715752001" />
+      <entry key="H4" value="889.2708900046325" />
+      <entry key="D1" value="1305.1137115816102" />
+      <entry key="W1" value="1446.8778119604756" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="1.2341748733641772E-154" />
+      <entry key="S60" value="2.3606319572968283E-77" />
+      <entry key="M2" value="1.1300647249705709E-38" />
+      <entry key="M5" value="1.912715697157393E-15" />
+      <entry key="M10" value="1.074033492983016E-7" />
+      <entry key="M15" value="4.162044881586211E-5" />
+      <entry key="M30" value="0.017246851041361082" />
+      <entry key="H1" value="0.4516372889106286" />
+      <entry key="H2" value="3.054752898300834" />
+      <entry key="H4" value="9.026996232047637" />
+      <entry key="D1" value="24.322403152929795" />
+      <entry key="W1" value="29.106643729565697" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9706996299835272" />
+      <entry key="MS500" value="1.8512665329666917" />
+      <entry key="S2" value="5.663986617933243" />
+      <entry key="S5" value="13.439012398292109" />
+      <entry key="S10" value="25.391722359961168" />
+      <entry key="S30" value="57.59111828646326" />
+      <entry key="S60" value="79.3104887786277" />
+      <entry key="M2" value="103.8731102996213" />
+      <entry key="M5" value="169.14629635319315" />
+      <entry key="M10" value="253.6620778138659" />
+      <entry key="M15" value="320.5316905170591" />
+      <entry key="M30" value="455.36441403979785" />
+      <entry key="H1" value="589.386740192618" />
+      <entry key="H2" value="725.7984417216832" />
+      <entry key="H4" value="898.2837661749757" />
+      <entry key="D1" value="1329.429021592566" />
+      <entry key="W1" value="1475.983209519902" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HMbiECXyaryj88lYys2tOlbOjo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.breast_cancer.csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.breast_cancer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.metrics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pipeline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.preprocessing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.visualization.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Analysing_Different_ML_Models/Data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Analysing_Different_ML_Models\Data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-84eaadda3698-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.51" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13781a2d-2718-4e70-9221-1bf313887918" name="Changes" comment="" />
+      <created>1785681009752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785681009752</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Notebooks/titanic.ipynb</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
