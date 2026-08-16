@@ -2,6 +2,8 @@
 
 This project compares six classification algorithms on four datasets through a shared, reproducible workflow. Each dataset has its own Jupyter notebook for exploration and training, while reusable modules handle preprocessing, evaluation, visualisation, and saving results.
 
+The repository includes 20-row CSV previews. Download the complete data from the Kaggle sources below before running the notebooks.
+
 ## Current implementation
 
 - Added a shared pipeline that trains Logistic Regression, Decision Tree, Random Forest, KNN, SVM, and XGBoost with a consistent interface.
@@ -16,17 +18,18 @@ The project answers a practical question: **which classification model performs 
 
 ## Datasets and preparation
 
-| Dataset | Target | Preparation performed |
-| --- | --- | --- |
-| Digit Recognizer | `label` | Classifies digits 0-9 from 784 grayscale pixel features. |
-| Titanic | `Survived` | Fills missing `Age` and `Embarked` values, removes `Name`, `Ticket`, and `Cabin`, then one-hot encodes `Sex` and `Embarked`. |
-| Wine Quality | `quality` | Removes duplicate rows before training. |
-| Bank Marketing | `y` | Removes duplicate rows, one-hot encodes categorical predictors, and maps `no`/`yes` to `0`/`1`. |
+| Dataset | Target | Kaggle source | Preparation performed |
+| --- | --- | --- | --- |
+| Digit Recognizer | `label` | [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer) | Classifies digits 0-9 from 784 grayscale pixel features. |
+| Titanic | `Survived` | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Fills missing `Age` and `Embarked` values, removes `Name`, `Ticket`, and `Cabin`, then one-hot encodes `Sex` and `Embarked`. |
+| Wine Quality | `quality` | [winequality-red.csv](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) | Removes duplicate rows before training. |
+| Bank Marketing | `y` | [Bank Marketing Data Set](https://www.kaggle.com/datasets/joseguzman/bank-marketing) | Removes duplicate rows, one-hot encodes categorical predictors, and maps `no`/`yes` to `0`/`1`. |
 
 ## Notebooks
 
 | Dataset | Prediction task | Notebook |
 | --- | --- | --- |
+| Digit Recognizer | Handwritten digit classification | [digit_recognizer.ipynb](Notebooks/digit_recognizer.ipynb) |
 | Titanic | Passenger survival | [titanic.ipynb](Notebooks/titanic.ipynb) |
 | Wine Quality | Wine-quality class | [wine_quality.ipynb](Notebooks/wine_quality.ipynb) |
 | Bank Marketing | Term-deposit subscription | [bank_marketing.ipynb](Notebooks/bank_marketing.ipynb) |
