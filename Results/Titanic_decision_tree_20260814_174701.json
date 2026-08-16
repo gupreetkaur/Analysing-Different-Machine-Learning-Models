@@ -1,0 +1,48 @@
+{
+    "dataset": "Titanic",
+    "model_name": "decision_tree",
+    "timestamp": "2026-08-14 17:47:01.143831",
+    "metrics": {
+        "accuracy": 0.8212290502793296,
+        "precision": 0.8198025887295777,
+        "recall": 0.8212290502793296,
+        "f1": 0.819539139853571,
+        "confusion_matrix": [
+            [
+                97,
+                13
+            ],
+            [
+                19,
+                50
+            ]
+        ],
+        "classification_report": {
+            "0": {
+                "precision": 0.8362068965517241,
+                "recall": 0.8818181818181818,
+                "f1-score": 0.8584070796460177,
+                "support": 110.0
+            },
+            "1": {
+                "precision": 0.7936507936507936,
+                "recall": 0.7246376811594203,
+                "f1-score": 0.7575757575757576,
+                "support": 69.0
+            },
+            "accuracy": 0.8212290502793296,
+            "macro avg": {
+                "precision": 0.8149288451012588,
+                "recall": 0.8032279314888011,
+                "f1-score": 0.8079914186108876,
+                "support": 179.0
+            },
+            "weighted avg": {
+                "precision": 0.8198025887295777,
+                "recall": 0.8212290502793296,
+                "f1-score": 0.819539139853571,
+                "support": 179.0
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "dataset": "Titanic",
+    "model_name": "random_forest",
+    "timestamp": "2026-08-14 17:47:01.606066",
+    "metrics": {
+        "accuracy": 0.8156424581005587,
+        "precision": 0.814147133835317,
+        "recall": 0.8156424581005587,
+        "f1": 0.8142255079038377,
+        "confusion_matrix": [
+            [
+                96,
+                14
+            ],
+            [
+                19,
+                50
+            ]
+        ],
+        "classification_report": {
+            "0": {
+                "precision": 0.8347826086956521,
+                "recall": 0.8727272727272727,
+                "f1-score": 0.8533333333333334,
+                "support": 110.0
+            },
+            "1": {
+                "precision": 0.78125,
+                "recall": 0.7246376811594203,
+                "f1-score": 0.7518796992481203,
+                "support": 69.0
+            },
+            "accuracy": 0.8156424581005587,
+            "macro avg": {
+                "precision": 0.8080163043478261,
+                "recall": 0.7986824769433465,
+                "f1-score": 0.8026065162907268,
+                "support": 179.0
+            },
+            "weighted avg": {
+                "precision": 0.814147133835317,
+                "recall": 0.8156424581005587,
+                "f1-score": 0.8142255079038377,
+                "support": 179.0
+            }
+        }
+    }
+}

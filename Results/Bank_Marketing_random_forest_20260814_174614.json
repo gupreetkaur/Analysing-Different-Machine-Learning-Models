@@ -1,0 +1,48 @@
+{
+    "dataset": "Bank_Marketing",
+    "model_name": "random_forest",
+    "timestamp": "2026-08-14 17:46:14.708623",
+    "metrics": {
+        "accuracy": 0.9117289946576008,
+        "precision": 0.9034754407523063,
+        "recall": 0.9117289946576008,
+        "f1": 0.9060853873184284,
+        "confusion_matrix": [
+            [
+                7061,
+                247
+            ],
+            [
+                480,
+                448
+            ]
+        ],
+        "classification_report": {
+            "0": {
+                "precision": 0.9363479644609468,
+                "recall": 0.9662014230979749,
+                "f1-score": 0.9510404741060005,
+                "support": 7308.0
+            },
+            "1": {
+                "precision": 0.6446043165467625,
+                "recall": 0.4827586206896552,
+                "f1-score": 0.5520640788662969,
+                "support": 928.0
+            },
+            "accuracy": 0.9117289946576008,
+            "macro avg": {
+                "precision": 0.7904761405038547,
+                "recall": 0.724480021893815,
+                "f1-score": 0.7515522764861486,
+                "support": 8236.0
+            },
+            "weighted avg": {
+                "precision": 0.9034754407523063,
+                "recall": 0.9117289946576008,
+                "f1-score": 0.9060853873184284,
+                "support": 8236.0
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "dataset": "Bank_Marketing",
+    "model_name": "decision_tree",
+    "timestamp": "2026-08-14 17:46:11.879005",
+    "metrics": {
+        "accuracy": 0.8918164157357941,
+        "precision": 0.8917655387942587,
+        "recall": 0.8918164157357941,
+        "f1": 0.8917909563483774,
+        "confusion_matrix": [
+            [
+                6863,
+                445
+            ],
+            [
+                446,
+                482
+            ]
+        ],
+        "classification_report": {
+            "0": {
+                "precision": 0.9389793405390614,
+                "recall": 0.9391078270388615,
+                "f1-score": 0.9390435793938565,
+                "support": 7308.0
+            },
+            "1": {
+                "precision": 0.5199568500539374,
+                "recall": 0.5193965517241379,
+                "f1-score": 0.5196765498652292,
+                "support": 928.0
+            },
+            "accuracy": 0.8918164157357941,
+            "macro avg": {
+                "precision": 0.7294680952964994,
+                "recall": 0.7292521893814997,
+                "f1-score": 0.7293600646295428,
+                "support": 8236.0
+            },
+            "weighted avg": {
+                "precision": 0.8917655387942587,
+                "recall": 0.8918164157357941,
+                "f1-score": 0.8917909563483774,
+                "support": 8236.0
+            }
+        }
+    }
+}

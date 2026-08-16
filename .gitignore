@@ -6,7 +6,6 @@ __pycache__/
 .env.*
 .DS_Store
 data/
-Results/
 .vscode/
 *.log
 *.sqlite
