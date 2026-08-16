@@ -1,1 +1,0 @@
-Jupyter notebooks for dataset exploration and experiments. Keep notebooks small and rely on src/ for reusable code. Do not commit large datasets; put them under data/ and add them to .gitignore if needed.

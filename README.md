@@ -77,6 +77,8 @@ Each notebook saves the following artifacts in `Results/`:
 - `reports/`: text classification reports
 - root `Results/` directory: timestamped JSON files containing metrics, confusion matrices, and structured classification reports
 
+📖 **[See detailed guide to all Results](Results/README.md)** — Complete documentation on how to interpret and use all result files.
+
 ## Project structure
 
 ```text
